@@ -13,8 +13,8 @@ This is the backend of the Product Management Application built using Django and
 ## Installation & Setup
 
 1. **Clone the repository**  
-   git clone <repository-url>
-   cd backend
+   git clone https://github.com/sanjevkumar961/product-management-backend.git
+   cd product-management-backend
 
 2. **Create a virtual environment (optional but recommended)**
     python -m venv venv
